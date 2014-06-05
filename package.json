@@ -1,5 +1,5 @@
 {
-  "name": "express-jwt-uz",
+  "name": "express-jwt",
   "version": "0.2.1",
   "description": "JWT authentication middleware with some extra options. Based on Auth0's express-jwt",
   "keywords": [],
