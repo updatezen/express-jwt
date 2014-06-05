@@ -23,7 +23,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "jsonwebtoken": "git://github.com/updatezen/node-jsonwebtoken.git"
+    "jsonwebtoken": "git://github.com/updatezen/node-jsonwebtoken.git#exppatch"
   },
   "devDependencies": {
     "mocha": "1.x.x"
